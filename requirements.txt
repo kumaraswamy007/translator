@@ -1,0 +1,6 @@
+googletrans
+gTTS
+pyttsx3
+SpeechRecognition
+streamlit
+
